@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Francis Mpangirwa Leshitor, I'm a Frontend Developer and UI/UX Designer from Kigali✨</p>
+<p align="left">My name is Francis Mpangirwa Leshitor and I'm a Frontend Developer from Kigali✨</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Web Developer based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday.📚✨</p>
+<p align="left">I'm a Frontend Web Developer and UI/UX Designer based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday.📚✨</p>
 
 ###
 
