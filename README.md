@@ -1,8 +1,8 @@
-<h1 align="left">Hey There...👋</h1>
+<h1 align="left">Hey There👋</h1>
 
 ###
 
-<p align="left">My name is Francis Mpang Leshitor and I'm a Frontend Developer, from Kigali✨</p>
+<p align="left">My name is Francis Mpangirwa Leshitor, I'm a Frontend Developer and UI/UX Designer from Kigali✨</p>
 
 ###
 
