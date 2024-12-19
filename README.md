@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Francis Mpangirwa Leshitor and I'm a Frontend Developer from Kigali🗺️</p>
+<p align="left">My name is Francis Mpangirwa Leshitor and I'm a Frontend Developer from Kigali🏡</p>
 
 ###
 
