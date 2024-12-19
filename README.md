@@ -1,20 +1,20 @@
-<h1 align="left">Hey there...👋</h1>
+<h1 align="left">Hey there...📣</h1>
 
 ###
 
-<p align="left">My name is Francis Mpangirwa Leshitor and I'm a Frontend Developer from Kigali✨</p>
+<p align="left">My name is Francis Mpangirwa Leshitor and I'm a Frontend Developer from Kigali🗺️</p>
 
 ###
 
-<h2 align="left">About me...👦</h2>
+<h2 align="left">About me...🧑</h2>
 
 ###
 
-<p align="left">I'm a Frontend Web Developer and UI/UX Designer based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday.📚✨</p>
+<p align="left">I'm a Frontend Web Developer and UI/UX Designer based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday.🌍💪🏽❤️‍🔥</p>
 
 ###
 
-<h2 align="left">I code with...💻</h2>
+<h2 align="left">I code with...💻🧠</h2>
 
 ###
 
